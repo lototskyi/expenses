@@ -1,1 +1,3 @@
-# An application to keep track of expenses written on React
+# An application to keep track of expenses
+
+- [Demo](https://expenses.homeapp.pp.ua/)
